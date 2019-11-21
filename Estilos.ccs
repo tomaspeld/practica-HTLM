@@ -1,0 +1,25 @@
+.titulo-principal{
+    font-family: tahoma;
+    font-size: 37px;
+    line-height: 46px;
+    text-decoration-color: #000000;
+}
+.titulo-seuncdario{
+    font-family: tahoma;
+    font-size: 25px;
+    line-height: 39px;
+    
+}
+.titulo-terciario{
+    
+    font-size: 18px;
+    line-height: 46px;
+    text-decoration-color: #666;
+}
+
+.generales{
+    font-family: verdana;
+    font-size: 18px;
+    line-wight: 900px;
+    
+}
